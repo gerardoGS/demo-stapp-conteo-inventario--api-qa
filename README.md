@@ -1,0 +1,1 @@
+# demo-stapp-conteo-inventario--api-qa
